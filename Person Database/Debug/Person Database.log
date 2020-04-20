@@ -1,0 +1,3 @@
+﻿  Person Database.cpp
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode2.3\gpr\Person Database\Person Database.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode2.3\gpr\Person Database\Person Database.cpp(12): error C4700: uninitialized local variable 'pf' used
